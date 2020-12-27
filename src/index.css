@@ -15,3 +15,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.kesu {
+  list-style: none;
+}
+
+.yoko {
+  display: flex;
+}
+
+li {
+  display: flex;
+}

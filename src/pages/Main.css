@@ -1,0 +1,32 @@
+.kesu {
+    list-style: none;
+  }
+  
+  .yoko {
+    display: flex;
+    position: fixed;
+    background-color: white;
+    position: fixed;
+    width:100%;
+    height:56px;
+    bottom:0;
+    text-align:center;
+    z-index: 1000;
+  }
+
+  .ue{
+      padding-bottom: 100px;
+  }
+  
+  li {
+    display: flex;
+  }
+
+  .text {
+      width: 80%;
+  }
+  
+  .namesize {
+      font-size: small;
+  }
+  
